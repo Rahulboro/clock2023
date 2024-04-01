@@ -9,13 +9,13 @@ Welcome to the Clock Project repository! This project showcases a digital clock 
 
 ## Demo
 
-Explore the live demo of the clock project [here](link_to_demo).
+Explore the live demo of the clock project [here](https://clock2024.vercel.app).
 
 ## Screenshots
 
 Witness the elegant simplicity of the clock project through the following screenshot:
 
-![Clock Screenshot](clock_screenshot.png)
+![Clock Screenshot](./asset/Screenshot%202024-04-01%20at%2018.10.04.jpg)
 
 ## How to Use
 
