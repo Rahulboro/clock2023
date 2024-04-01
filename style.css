@@ -25,6 +25,7 @@
     top: 35%;
     left: 49.4%;
     opacity: .9;
+    transform-origin: bottom;
 }
 #minute {
     width: 1%;
@@ -32,7 +33,7 @@
     top: 29%;
     left: 49.4%;
     opacity: 0.9;
-
+    transform-origin: bottom;
 }
 #second {
     width: 1%;
@@ -40,4 +41,5 @@
     top: 27%;
     left: 49.4%;
     opacity: 0.9;
+    transform-origin: bottom;
 }
